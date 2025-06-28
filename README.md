@@ -12,6 +12,10 @@ Copyright © 2025 Cong Le. All Rights Reserved.
  
 </div>
 
+----
+
+![Demo_Earthquake_Protection](./ASSETS/Demo_Earthquake_Protection.gif)
+
 ---
 
 <div align="center">
